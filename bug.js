@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an issue where data wasn't being written to the Realtime Database even though the code appeared correct. The `set()` method was used, and there were no apparent errors in the console.  The strange part was that the data would occasionally write, but most of the time it failed silently.
